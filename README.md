@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RiccardoBona17!
-- 👀 I’m interested in cognitive neuroscience. In particular, I use coding for the analysis of fMRI data. However, I'm also passionate about software development, and web development.
-- 🌱 I’m currently learning Python to improve my general knowledge of programming languages for academic and individual purposes.
-- 💞️ I’m looking to collaborate on research and programming projects that involve creating and being creative!
+- 👀 I’m passionate about how data-driven insights can help corporations make informed and mindful decisions on their businesses.
+- 🌱 I’m currently attending a bootcamp focused on data analysis methodologies in corporate settings.
+- 💞️ I’m always looking for new people to collaborate with on data analysis and programming projects.
 - 📫 How to reach me: mail riccardobonafini17@gmail.com
 
 <!---
